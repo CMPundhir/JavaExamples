@@ -7,7 +7,7 @@ class Address{
 		this.hNo = hNo;
 		this.street = street;
 		this.pincode = pincode;
-		// this.city = city;
+		this.city = city;
 	}
 	@Override
 	public String toString(){
